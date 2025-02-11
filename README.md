@@ -18,3 +18,6 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
    ```bash
    https://github.com/kaushalkumar08/RailwayManagement_API.git
+
+2. Testing
+   Used Postman for testing the GET and POST requests
