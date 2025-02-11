@@ -8,7 +8,7 @@ This is a Python-based API for managing a Railway System. It allows users to reg
 - **User Login**: Users can log in to their accounts using their credentials.
 - **Train Management** (Admin Only): Admins can manage train details such as train ID, name, source, and destination.
 - **Seat Availability**: Users can check the availability of seats on a specific train.
-- **Seat Booking**: Users can book seats on a train, ensuring no double-booking occurs.
+- **Seat Booking**: Users can book seats on a train.
 - **Booking Details**: Users can view their booking history, including train ID and number of seats booked.
 
 ## Installation
